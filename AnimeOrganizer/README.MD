@@ -1,3 +1,5 @@
+# AnimeOrganizer
+Organizes your animes into folders, and rename them with EP#.
 
 |External Tool  |Compatibility %  | Notes
 |--|--|--|
